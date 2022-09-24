@@ -3,7 +3,7 @@ const prompt = require('prompt-sync')()
 // This assignment will help you interpret mathematical relationships both
 // algebraically and geometrically.
 
-// check image "assignment_04"
+// image available in "assignment_04"
 
 // Create a function that takes a number (step) as an argument and returns the
 // number of matchsticks in that step. See step 1, 2 and 3 in the image above.
