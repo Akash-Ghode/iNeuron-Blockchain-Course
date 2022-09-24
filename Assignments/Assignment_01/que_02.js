@@ -11,7 +11,7 @@ const prompt = require("prompt-sync")()
 
 
 
-        // User can specify the input in Celsius or Farenheit
+        // User can specify the input in Celsius or Farenheit.
 
         const temperature = prompt("Enter temperature in Celsius or Fahrenheit e.g. 56C or 56F: ");
 
