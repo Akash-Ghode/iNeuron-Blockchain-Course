@@ -8,14 +8,14 @@
 
 6. What string method can be used to check the occurrence of a specified text in a string?
 
-==> includes method can be used to check the occurrence of a specified text in a string.
+==> "includes" method can be used to check the occurrence of a specified text in a string.
 
 e.g.  "I am Akash".includes("m Aka")
        Output: true
 
 
 7. How can you break a string to a newline in Javascript ?
-==> The newline character is \n can be used to break a string to a newline in Javascript.
+==> The newline character is "\n" can be used to break a string to a newline in Javascript.
 
 e.g.  let str = "Hello World!\nThis is my string";
       console.log(str);
