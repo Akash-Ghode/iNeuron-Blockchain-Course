@@ -19,7 +19,7 @@ for (let i = 0; i < input.length; i++) {
     sum += Math.pow(input[i], 3)
 }
 
-if (sum === parseInt(input))
+if (sum === Number(input))  //or use parseInt
     console.log(`${input} is an Armstrong number`)
 else
     console.log(`${input} is not an Armstrong number`)
